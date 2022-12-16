@@ -22,4 +22,5 @@ async def _(bot: Bot, event: GroupMessageEvent):
                 # await withdraw.finish(message="你没有权限哦～")
             
         except BaseException as e:
-            await withdraw.finish(message="撤回不了哦～")
+            await withdraw.finish()
+            #await withdraw.finish(message="撤回不了哦～")
