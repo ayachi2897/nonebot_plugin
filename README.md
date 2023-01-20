@@ -1,6 +1,6 @@
 # nonebot2_plugin
 一些可以直接使用的nonebot2插件
-功能：
+功能：\r\n
 1.luck   #运势ff14版\n
 2.莲宝|罕见|东雪莲骂我\n
 3.搜番（寄）\n
